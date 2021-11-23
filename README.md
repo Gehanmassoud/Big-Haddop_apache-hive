@@ -1,5 +1,5 @@
 # Big-Haddop_apache-hive TV channels project
-# The project aims to display show-to-channel relationship is Many-to-Many each show might appear on many channels, and each channel might broadcas many shows.
+The project aims to display show-to-channel relationship is Many-to-Many each show might appear on many channels, and each channel might broadcas many shows.
 The description of the data is as below
    TV show titles
    Channels' names
