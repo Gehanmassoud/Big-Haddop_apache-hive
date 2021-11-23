@@ -15,6 +15,4 @@ Most viewed show on ABC channel
 The aired shows on ZOO,NOX, ABC channels 
 
 Lab Environment: 
-Platforms: Windows 10, Linux |Running Hadoop on CentOS Linux 6.3 (Multi-Node Cluster) |PuTTY is a terminal emulator (Clinet)|Hadoop and ecosystems installation
-
-
+Platforms: Windows 10, Linux |Running Hadoop on CentOS Linux 6.3 (Multi-Node Cluster) |PuTTY terminal emulator (Clinet)|Hadoop and ecosystems installation Sqoop,pig,Hive, Hbase,Flume,Spark and scala 
