@@ -15,5 +15,7 @@ Most viewed show on ABC channel
 The aired shows on ZOO,NOX, ABC channels 
 
 Lab Environment: 
+Platforms: Windows 10, Linux
+Running Hadoop on CentOS Linux 6.3 (Multi-Node Cluster)
 You need to have Hadoop setup in order to perform this project. 
 Codes done using Apace Hive
