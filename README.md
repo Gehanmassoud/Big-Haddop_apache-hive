@@ -1,6 +1,6 @@
 # Big-Haddop_apache-hive TV Channels Performance Project
 Problem statement:
-Comparison between channels perfomance in terms of viewers for shows for each channel, most viewed shows for each channel and between all channel
+Comparison between channels' perfomance in terms of number of viewers per channel, most viewed shows for each channel and between all channels.
 
 Data Query and analysis: I used Apache Hive to write Hive Query Language (HQL) statements that are similar to standard SQL statements for data query and analysis.
 
