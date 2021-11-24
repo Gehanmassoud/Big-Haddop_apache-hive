@@ -1,4 +1,4 @@
-# Big-Haddop_apache-hive TV channels project
+# Big-Haddop_apache-hive TV Channels Performance Project
 Problem statement:
 Comparison between channels perfomance in terms of viewers for shows for each channel, most viewed shows for each channel and between all channel
 
